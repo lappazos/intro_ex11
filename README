@@ -1,0 +1,41 @@
+Lioraryepaz, 206240996, Lior Paz
+
+=============================
+=  README for ex11:
+=============================
+
+General backtracking, including sudoku & map coloring, with special part of map
+coloring hyper functions!!!
+
+==================
+=  Description:  =
+==================
+
+in ex11_backtrack general backtracking that could solve any backtrack problem
+in the entire universe.
+we implemented its use with sudoku problem & map coloring problem.
+
+in part B, which is ex11_improve_backtrack - we entered 4 different
+improvements for the backtracking process - each helps in a different way, and
+not all have the same efficiency.
+
+===============
+=  Comments:  =
+===============
+
+backtracking is crazy. in a good way.
+i feel a bit bad i didnt get the chance to improve & combine all of my
+backtracking skills in one super-hyper speed ultimate fast function (bonus),
+but i just didnt have time. forgive me:(
+
+============================
+=  list of submitted files =
+============================
+README
+ex11_backtrack.py
+ex11_improve_backtrack.py
+ex11_map_coloring.py
+ex11_sudoku.py
+
+
+
